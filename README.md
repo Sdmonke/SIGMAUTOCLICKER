@@ -1,2 +1,2 @@
 # SIGMAUTOCLICKER
-The fastest autoclicker, but no GUI. Coded in python. I recommend 2-4 0s for optimal speed.
+SIGMAUTOCLICER! Yes, obviously the name is from the brainrot term "sigma". You are not able to put a number but have to put 0.0001 and stuff like that because you're setting the sleep time, I couldn't find out how to reverse the number. Anyway it can click upto a 1000cps and more, so enjoy!
